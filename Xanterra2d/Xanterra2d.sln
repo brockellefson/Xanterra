@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xanterra2d", "Xanterra2d.csproj", "{E065F288-CE9F-FB4A-7A8F-ABEB9C6E3B56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xanterra2d.Editor", "Xanterra2d.Editor.csproj", "{8906EFB4-DDBC-1355-E756-CC9F24A2601E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E065F288-CE9F-FB4A-7A8F-ABEB9C6E3B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E065F288-CE9F-FB4A-7A8F-ABEB9C6E3B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E065F288-CE9F-FB4A-7A8F-ABEB9C6E3B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E065F288-CE9F-FB4A-7A8F-ABEB9C6E3B56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8906EFB4-DDBC-1355-E756-CC9F24A2601E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8906EFB4-DDBC-1355-E756-CC9F24A2601E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8906EFB4-DDBC-1355-E756-CC9F24A2601E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8906EFB4-DDBC-1355-E756-CC9F24A2601E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Oasis.unity
+  isLoaded: 1
+  isActive: 1
